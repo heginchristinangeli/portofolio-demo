@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/heginchristinangeli/portofolio/static/css/main.72291bc7.chunk.css",
+    "main.js": "/heginchristinangeli/portofolio/static/js/main.4618fb82.chunk.js",
+    "main.js.map": "/heginchristinangeli/portofolio/static/js/main.4618fb82.chunk.js.map",
+    "runtime-main.js": "/heginchristinangeli/portofolio/static/js/runtime-main.36aeac2e.js",
+    "runtime-main.js.map": "/heginchristinangeli/portofolio/static/js/runtime-main.36aeac2e.js.map",
+    "static/css/2.86fbdad3.chunk.css": "/heginchristinangeli/portofolio/static/css/2.86fbdad3.chunk.css",
+    "static/js/2.fdd7ce80.chunk.js": "/heginchristinangeli/portofolio/static/js/2.fdd7ce80.chunk.js",
+    "static/js/2.fdd7ce80.chunk.js.map": "/heginchristinangeli/portofolio/static/js/2.fdd7ce80.chunk.js.map",
+    "static/js/3.786aaa75.chunk.js": "/heginchristinangeli/portofolio/static/js/3.786aaa75.chunk.js",
+    "static/js/3.786aaa75.chunk.js.map": "/heginchristinangeli/portofolio/static/js/3.786aaa75.chunk.js.map",
+    "index.html": "/heginchristinangeli/portofolio/index.html",
+    "static/css/2.86fbdad3.chunk.css.map": "/heginchristinangeli/portofolio/static/css/2.86fbdad3.chunk.css.map",
+    "static/css/main.72291bc7.chunk.css.map": "/heginchristinangeli/portofolio/static/css/main.72291bc7.chunk.css.map",
+    "static/js/2.fdd7ce80.chunk.js.LICENSE.txt": "/heginchristinangeli/portofolio/static/js/2.fdd7ce80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36aeac2e.js",
+    "static/css/2.86fbdad3.chunk.css",
+    "static/js/2.fdd7ce80.chunk.js",
+    "static/css/main.72291bc7.chunk.css",
+    "static/js/main.4618fb82.chunk.js"
+  ]
+}
